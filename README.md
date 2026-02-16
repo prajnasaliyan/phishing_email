@@ -96,6 +96,3 @@ This project demonstrates basic phishing analysis techniques using Kali Linux.
 
 ---
 
-## 👩‍💻 Author
-Prajna Anitha  
-Cybersecurity Student

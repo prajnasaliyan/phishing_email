@@ -1,0 +1,15 @@
+From: support@amaz0n-security.com
+Subject: Urgent! Account Suspension Notice
+
+Dear Customer,
+
+We detected suspicious activity in your account.
+Your account will be suspended within 24 hours.
+
+Click here to verify:
+http://amaz0n-login-security.com/verify
+
+Failure to act immediately will result in permanent suspension.
+
+Thank you,
+Amazon Security Team

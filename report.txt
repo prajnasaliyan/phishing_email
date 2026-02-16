@@ -1,0 +1,18 @@
+PHISHING EMAIL ANALYSIS REPORT
+
+1. Sender Analysis:
+The email uses spoofed domain amaz0n-security.com.
+The letter 'o' is replaced by zero.
+
+2. Suspicious URL:
+The link amaz0n-login-security.com is fake and not official Amazon domain.
+
+3. Social Engineering:
+The email uses urgent and threatening language to create panic.
+
+4. Generic Greeting:
+The email uses "Dear Customer" instead of recipient name.
+
+5. Conclusion:
+Based on spoofed domain, malicious URL, and urgency tactics,
+this email is identified as phishing.
